@@ -130,3 +130,12 @@ img {
 .header__nav {
     margin-right: 65px;
 }
+
+.hero {
+    background-color: var(--color-accent);
+}
+
+.header__container {
+    display: flex;
+    align-items: center;
+}
